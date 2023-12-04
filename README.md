@@ -20,12 +20,14 @@
 ## WORK EXPERIENCE 
 
 **Tata Consultancy Services (TCS)** Chennai, India
+
 **Systems Engineer** July 2020 – July 2022
 - Worked with Nokia’s Executive Director to deliver user rights management and bulk ordering feature by building backend framework and deploying it on Azure, reducing client ordering time by 250%.
   
 - Performed quality assurance tests on lower environments by using Selenium scripts that allowed early detection of bugs in Nokia’s enterprise ordering platform, saving post deployment downtime by 17%.
 
 - Optimized performance by daily monitoring Nokia’s enterprise application performance through backed server and Azure jobs screening, reducing maintenance costs by 23%.
+
 
 **Trainee - Systems Engineer** July 2019 – June 2020
 - Worked as automation test engineer to eliminate 90% redundant manual testing tasks using TCS’s custom QA CoE application, achieving 3 million+ USD yearly savings.
