@@ -1,12 +1,14 @@
 # Applied Data Scientist
-# ALAN VARKEY
+
 
 ## SKILLS
+
 **Programming Languages:** Python, R, Java, HTML, CSS, JavaScript, C, C++, OOPs, SQL, Git
   
 **Machine Learning:** Python (pandas, matplotlib, TensorFlow, NumPy, Spark, SpaCy, NLTK, Scikit-learn, Keras)
   
 **Data Science & Miscellaneous Technologies:** Data Analytics, Data cleaning, Data wrangling, Data visualization, Key Performance Indicator (KPI), Statistical Analysis, Time series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), PySpark
+
 
 ## EDUCATION
 
@@ -14,7 +16,9 @@
 
 **Bachelor of Technology, Mechanical Engineering** (June 2019) | **Rajiv Gandhi Institute of Technology, Pampady Kottayam, India**
 
+
 ## WORK EXPERIENCE 
+
 **Tata Consultancy Services (TCS)** Chennai, India
 **Systems Engineer** July 2020 – July 2022
 - Worked with Nokia’s Executive Director to deliver user rights management and bulk ordering feature by building backend framework and deploying it on Azure, reducing client ordering time by 250%.
@@ -25,6 +29,7 @@
 
 **Trainee - Systems Engineer** July 2019 – June 2020
 - Worked as automation test engineer to eliminate 90% redundant manual testing tasks using TCS’s custom QA CoE application, achieving 3 million+ USD yearly savings.
+
 
 ## PROJECTS
 **Google - American Sign Language (ASL) Fingerspelling Recognition**
