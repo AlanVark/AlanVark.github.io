@@ -1,5 +1,5 @@
 title: Alan Varkey
 logo: /assets/img/Turkey_run.jpg
 #description: text below image
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: jekyll-theme-modernist
