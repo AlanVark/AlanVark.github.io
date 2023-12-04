@@ -32,8 +32,11 @@
 
 
 ## PROJECTS
+
 **Google - American Sign Language (ASL) Fingerspelling Recognition**
+
 Led a Kaggle competition project under Google for American Sign Language (ASL) Fingerspelling Recognition. Developed a deep learning model to predict ASL words from images of sign language gestures, achieving a 65% accuracy. Extended the model to perform real-time recognition using computer vision techniques.
 
 **Predicting Depression from patient data**
+
 Utilized NHANES and NAMCS datasets to extract patient health records and demographic information. Developed a machine learning model utilizing PHQ survey questions to predict mental health status of patients.
