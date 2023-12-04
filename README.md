@@ -10,9 +10,9 @@
 
 ## EDUCATION
 
-**Indiana University – Purdue University Indianapolis (IUPUI) Indianapolis, USA** | **MS in Applied Data Science** (August 2022 – May 2024)
+**MS in Applied Data Science** (August 2022 – May 2024) | **Indiana University – Purdue University Indianapolis (IUPUI) Indianapolis, USA**
 
-**Rajiv Gandhi Institute of Technology, Pampady Kottayam, India** | **Bachelor of Technology, Mechanical Engineering** (August 2015 – June 2019)
+**Bachelor of Technology, Mechanical Engineering** (August 2015 – June 2019) | **Rajiv Gandhi Institute of Technology, Pampady Kottayam, India**
 
 ## WORK EXPERIENCE 
 **Tata Consultancy Services (TCS)** Chennai, India
