@@ -9,6 +9,7 @@
 **Data Science & Miscellaneous Technologies:** Data Analytics, Data cleaning, Data wrangling, Data visualization, Key Performance Indicator (KPI), Statistical Analysis, Time series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), PySpark
 
 ## EDUCATION
+
 **Indiana University – Purdue University Indianapolis (IUPUI) Indianapolis, USA** | **MS in Applied Data Science** (August 2022 – May 2024)
 
 **Rajiv Gandhi Institute of Technology, Pampady Kottayam, India** | **Bachelor of Technology, Mechanical Engineering** (August 2015 – June 2019)
