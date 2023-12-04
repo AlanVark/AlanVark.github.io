@@ -11,13 +11,9 @@
 ## EDUCATION
 **Indiana University – Purdue University Indianapolis (IUPUI)** Indianapolis, USA
 **MS in Applied Data Science** (August 2022 – May 2024)
-- Relevant Coursework: Machine Learning using Python, Database Design, Statistics for Data Science, Data Analytics, Cloud Computing for Data science, Deep Learning for Business
-- Teaching Assistant: Machine Learning using Python to a class of 80+ master’s students.
 
 **Rajiv Gandhi Institute of Technology, Pampady Kottayam, India**
 **Bachelor of Technology, Mechanical Engineering** (August 2015 – June 2019)
-- Society of Automobile Engineers (SAE India, September 2015 – May 2019)
-- Student Coordinator – Career Guidance and Placement Cell (CGPC) Committee
 
 ## WORK EXPERIENCE 
 **Tata Consultancy Services (TCS)** Chennai, India
