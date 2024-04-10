@@ -39,7 +39,7 @@
 
 [**Multimodal Reasoning via Chains of Thought (CoT) for ScienceQA dataset with varying Few-Shot Prompts** (ongoing)]()
 
-Implementing research to evaluate CoT models on ScienceQA with varied prompts. Utilizing UnifiedQA CoT, Multimodal CoT, T5, and VQA models to provide insights for NLP, AI, and education stakeholders.
+Implementing research to evaluate CoT models on [ScienceQA](https://scienceqa.github.io/) with varied prompts. Utilizing UnifiedQA CoT, Multimodal CoT, T5, and VQA models to provide insights for NLP, AI, and education stakeholders.
 
 [**RAG LangChain Chatbot for a Hospital System**]()
 
