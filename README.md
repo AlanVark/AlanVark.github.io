@@ -38,12 +38,15 @@
 ## PROJECTS
 
 [**Multimodal Reasoning via Chains of Thought (CoT) for ScienceQA dataset with varying Few-Shot Prompts** (ongoing)]()
+
 Implementing research to evaluate CoT models on ScienceQA with varied prompts. Utilizing UnifiedQA CoT, Multimodal CoT, T5, and VQA models to provide insights for NLP, AI, and education stakeholders.
 
 [**RAG LangChain Chatbot for a Hospital System**]()
+
 Designed and deployed a RAG LangChain chatbot for a simulated hospital system, integrating custom data sources with Neo4j AuraDB. Developed comprehensive responses by fetching both structured and unstructured data. Ensured seamless accessibility for end-users by deploying the chatbot using FastAPI and Streamlit.
 
 [**Forecasting Analysis on Rental Vacancy Rate in the United States**]()
+
 Analyzing and predicting US quarterly Rental Vacancy Rate from January 1956 to July 2023. Utilizing ARIMA, SARIMAX, SEASONAL NAÏVE, and PROPHET models for accurate forecasts. Evaluation based on MAE, MSE, and RMSE metrics, covering data from 2020 to the latest available.
 
 [**Google - American Sign Language (ASL) Fingerspelling Recognition**](https://github.com/AlanVark/ASL)
