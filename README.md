@@ -21,7 +21,7 @@
 
 **Tata Consultancy Services (TCS)** Chennai, India
 
-**Data Scientist** July 2019 – July 2022
+**Systems Engineer** July 2019 – July 2022
 - Improved demand forecast accuracy by ~15% for a client using a Transformers-based package within Azure Databricks.
   
 - Enhanced supply chain visibility and decision-making through Power BI dashboards and Azure data pipelines, utilizing Databricks, DataFactory, and Synapse for Nokia’s data management team.
