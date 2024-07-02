@@ -19,6 +19,20 @@
 
 ## WORK EXPERIENCE 
 
+**Kerala Social Service Forum (KSSF)** Kottayam, India
+
+**Project Data Analyst** July 2022 – October 2022
+- Collected, processed, and analyzed data from multiple sources for programs like "Rural Health Improvement" and "Women Empowerment," using Python and SQL, resulting in a 25% improvement in data accuracy and reporting efficiency.
+  
+- Developed and maintained Tableau dashboards for initiatives such as "Education for All," providing real-time insights and reducing decision-making time by 30%.
+  
+- Conducted statistical analysis to identify trends in service data, contributing to a 20% increase in targeted resource allocation for the "Clean Water Access" project.
+  
+- Assisted in developing data-driven strategies by creating predictive models in Python, optimizing resource use, and increasing program efficiency by 15% for the "Child Nutrition Initiative."
+
+- Prepared comprehensive reports and presentations using Excel and PowerPoint, effectively communicating key findings and recommendations, leading to a 10% increase in stakeholder engagement and program support.
+
+
 **Tata Consultancy Services (TCS)** Chennai, India
 
 **Systems Engineer** July 2019 – July 2022
