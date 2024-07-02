@@ -19,7 +19,7 @@
 
 ## WORK EXPERIENCE 
 
-**Kerala Social Service Forum (KSSF)** Kottayam, India
+**Kerala Social Service Forum (KSSF)** Kottayam, India (Remote)
 
 **Project Data Analyst** July 2022 – October 2022
 - Collected, processed, and analyzed data from multiple sources for programs like "Rural Health Improvement" and "Women Empowerment," using Python and SQL, resulting in a 25% improvement in data accuracy and reporting efficiency.
