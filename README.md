@@ -11,9 +11,9 @@ Detail-oriented Data Analyst with 4 years of experience in extracting actionable
 
 **Machine Learning Engineer** May 2024 - Present
 - Currently contributing independently to the open-source Tree Tracker app, focusing on developing duplicate image detection and tree growth/update tracking functionalities.
-- 
+  
 - Working on enhancing the app’s accuracy through the implementation of advanced image analysis algorithms.
-- 
+  
 - Aiming to improve tree monitoring by creating mechanisms for detailed analysis of tree progress.
 
 
