@@ -1,23 +1,21 @@
 # Applied Data Scientist
 
 
-## SKILLS
-
-**Programming Languages:**  Python, R, Java, HTML, CSS, JavaScript, C, C++, OOPs, SQL, Git
-  
-**Machine Learning:** Python (pandas, matplotlib, TensorFlow, NumPy, Spark, SpaCy, NLTK, Scikit-learn, Keras)
-  
-**Data Science & Miscellaneous Technologies:** : Jupyter Notebook, Git, Data cleaning, Data wrangling, Data visualization, Statistical and visual interpretation, Data Analytics, Statistical Analysis, Clustering, Time series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Generative AI, Large Language Models (LLM), Natural Language Processing (NLP), PySpark, Excel, Azure Azure (Databricks, Synapse, DataFactory), AWS (Sagemaker, AI Platform), Stata, Tableau, PowerBI, VSCode, Spyder
-
-
-## EDUCATION
-
-**MS in Applied Data Science** (May 2024)                      | **Indiana University – Purdue University Indianapolis (IUPUI) Indianapolis, USA**
-
-**Bachelor of Technology, Mechanical Engineering** (June 2019) | **Rajiv Gandhi Institute of Technology, Pampady Kottayam, India**
+## PROFESSIONAL SUMMARY
+Detail-oriented Data Analyst with 4 years of experience in extracting actionable insights from complex datasets to drive strategic decision-making and business growth. Expertise in utilizing advanced analytics, machine learning techniques, and data visualization tools to enhance data accuracy, streamline processes, and optimize resource allocation. Proven ability to develop predictive models and interactive dashboards that significantly improve operational efficiency and support key initiatives. Strong background in programming, statistical analysis, and project management, with a commitment to delivering high-quality, data-driven solutions. Skilled in Python, SQL, Tableau, and Azure, with a Master’s degree in Applied Data Science from Indiana University – Purdue University Indianapolis (IUPUI). Adept at collaborating with cross-functional teams and stakeholders to achieve organizational objectives and foster data-driven cultures.
 
 
 ## WORK EXPERIENCE 
+
+**Greenstand** US (Volunteership - Remote)
+
+**Machine Learning Engineer** May 2024 - Present
+- Currently contributing independently to the open-source Tree Tracker app, focusing on developing duplicate image detection and tree growth/update tracking functionalities.
+- 
+- Working on enhancing the app’s accuracy through the implementation of advanced image analysis algorithms.
+- 
+- Aiming to improve tree monitoring by creating mechanisms for detailed analysis of tree progress.
+
 
 **Kerala Social Service Forum (KSSF)** Kottayam, India (Remote)
 
@@ -49,9 +47,25 @@
 - Worked as automation test engineer to eliminate 90% redundant manual testing tasks using TCS’s custom QA CoE application, achieving 3 million+ USD yearly savings.
 
 
+## SKILLS
+
+**Programming Languages:**  Python, R, Java, HTML, CSS, JavaScript, C, C++, OOPs, SQL, Git
+  
+**Machine Learning:** Python (pandas, matplotlib, TensorFlow, NumPy, Spark, SpaCy, NLTK, Scikit-learn, Keras)
+  
+**Data Science & Miscellaneous Technologies:** : Jupyter Notebook, Git, Data cleaning, Data wrangling, Data visualization, Statistical and visual interpretation, Data Analytics, Statistical Analysis, Clustering, Time series Forecasting, Supervised ML, Unsupervised ML (Clustering, PCA), Generative AI, Large Language Models (LLM), Natural Language Processing (NLP), PySpark, Excel, Azure Azure (Databricks, Synapse, DataFactory), AWS (Sagemaker, AI Platform), Stata, Tableau, PowerBI, VSCode, Spyder
+
+
+## EDUCATION
+
+**MS in Applied Data Science** (May 2024)                      | **Indiana University – Purdue University Indianapolis (IUPUI) Indianapolis, USA**
+
+**Bachelor of Technology, Mechanical Engineering** (June 2019) | **Rajiv Gandhi Institute of Technology, Pampady Kottayam, India**
+
+
 ## PROJECTS
 
-[**Multimodal Reasoning via Chains of Thought (CoT) for ScienceQA dataset with varying Few-Shot Prompts** (ongoing)]()
+[**Multimodal Reasoning via Chains of Thought (CoT) for ScienceQA dataset with varying Few-Shot Prompts**]()
 
 Implementing research to evaluate CoT models on [ScienceQA](https://scienceqa.github.io/) with varied prompts. Utilizing UnifiedQA CoT, Multimodal CoT, T5, and VQA models to provide insights for NLP, AI, and education stakeholders.
 
