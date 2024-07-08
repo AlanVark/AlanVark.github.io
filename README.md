@@ -20,13 +20,13 @@ Detail-oriented Data Analyst with 4 years of experience in extracting actionable
 **Kerala Social Service Forum (KSSF)** Kottayam, India (Remote)
 
 **Project Data Analyst** July 2022 – October 2022
-- Collected, processed, and analyzed data from multiple sources for programs like "Rural Health Improvement" and "Women Empowerment," using Python and SQL, resulting in a 25% improvement in data accuracy and reporting efficiency.
+- Improved data accuracy and reporting efficiency by 25% through collecting, processing, and analyzing data from multiple sources for programs like "Rural Health Improvement" and "Women Empowerment" using Python and SQL.
   
-- Developed and maintained Tableau dashboards for initiatives such as "Education for All," providing real-time insights and reducing decision-making time by 30%.
+- Reduced decision-making time by 30% by developing and maintaining Tableau dashboards for initiatives such as "Education for All."
   
-- Conducted statistical analysis to identify trends in service data, contributing to a 20% increase in targeted resource allocation for the "Clean Water Access" project.
+- Increased targeted resource allocation by 20% by conducting statistical analysis to identify trends in service data for the "Clean Water Access" project.
   
-- Assisted in developing data-driven strategies by creating predictive models in Python, optimizing resource use, and increasing program efficiency by 15% for the "Child Nutrition Initiative."
+- Created and implemented business metrics to measure the effectiveness of various social service programs, leading to a 15% increase in program efficiency.
 
 - Prepared comprehensive reports and presentations using Excel and PowerPoint, effectively communicating key findings and recommendations, leading to a 10% increase in stakeholder engagement and program support.
 
@@ -38,13 +38,13 @@ Detail-oriented Data Analyst with 4 years of experience in extracting actionable
   
 - Enhanced supply chain visibility and decision-making through Power BI dashboards and Azure data pipelines, utilizing Databricks, DataFactory, and Synapse for Nokia’s data management team.
   
-- Worked with Nokia’s Executive Director to deliver user rights management and bulk ordering feature by building backend framework and deploying it on Azure, reducing client ordering time by 250%.
+- Worked collaboratively with data engineering teams to build and maintain data pipelines, ensuring high data quality and accessibility for analysis.
   
-- Performed quality assurance tests on lower environments by using Selenium scripts that allowed early detection of bugs in Nokia’s enterprise ordering platform, saving post deployment downtime by 17%.
+- Reduced client ordering time by 70% by developing a backend framework and deploying it on Azure, enabling user rights management and bulk ordering while working directly with Nokia’s Executive Directors.
+  
+- Designed and implemented business metrics and measurement systems, reducing post-deployment downtime by 17% through quality assurance tests using Selenium scripts, which allowed early detection of bugs in Nokia’s enterprise ordering platform.
 
-- Optimized performance by daily monitoring Nokia’s enterprise application performance through backed server and Azure jobs screening, reducing maintenance costs by 23%.
-
-- Worked as automation test engineer to eliminate 90% redundant manual testing tasks using TCS’s custom QA CoE application, achieving 3 million+ USD yearly savings.
+- Authored and presented detailed reports to Nokia's executive team to support strategic decision-making.
 
 
 ## SKILLS
