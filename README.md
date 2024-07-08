@@ -7,7 +7,7 @@ Detail-oriented Data Analyst with 4 years of experience in extracting actionable
 
 ## WORK EXPERIENCE 
 
-**Greenstand** US (Volunteership - Remote)
+### **Greenstand** US (Volunteership - Remote)
 
 **Machine Learning Engineer** May 2024 - Present
 - Currently contributing independently to the open-source Tree Tracker app, focusing on developing duplicate image detection and tree growth/update tracking functionalities.
@@ -17,7 +17,7 @@ Detail-oriented Data Analyst with 4 years of experience in extracting actionable
 - Aiming to improve tree monitoring by creating mechanisms for detailed analysis of tree progress.
 
 
-**Kerala Social Service Forum (KSSF)** Kottayam, India (Remote)
+### **Kerala Social Service Forum (KSSF)** Kottayam, India (Remote)
 
 **Project Data Analyst** July 2022 – October 2022
 - Improved data accuracy and reporting efficiency by 25% through collecting, processing, and analyzing data from multiple sources for programs like "Rural Health Improvement" and "Women Empowerment" using Python and SQL.
@@ -31,7 +31,7 @@ Detail-oriented Data Analyst with 4 years of experience in extracting actionable
 - Prepared comprehensive reports and presentations using Excel and PowerPoint, effectively communicating key findings and recommendations, leading to a 10% increase in stakeholder engagement and program support.
 
 
-**Tata Consultancy Services (TCS)** Chennai, India
+### **Tata Consultancy Services (TCS)** Chennai, India
 
 **Business Intelligence Analyst** July 2019 – July 2022
 - Improved demand forecast accuracy by ~15% for a client using a Transformers-based package within Azure Databricks.
